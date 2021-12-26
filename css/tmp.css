@@ -151,21 +151,11 @@ width: 250px;
 .fitsher .cont .feet h3{font-weight:900}
 
 .services{
-    padding:50px;
+    padding:50px 0px;
    
    
 }
-/* .services .title h1{
-    font-size:100px;
-    font-weight: 900;
-    color:#ebeced;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content:center;
-    align-items:center;
 
-} */
 .services .title p{
     font-size: 20px;
     margin-top: -75px;
@@ -217,7 +207,7 @@ width: 300px;}
 }
 
 .Portfolio{
-    padding:50px;
+    padding:50px 0px;
   
 }
 .title{margin-bottom: 60px;}
@@ -248,7 +238,7 @@ width: 300px;}
 }
 
 .About{
-    padding:50px;
+    padding:50px 0px;
  
 }
 /* .About .title h1{
@@ -342,21 +332,8 @@ HTML{scroll-behavior: smooth;}
 
 
 .Contact{
-    padding:50px;
-   
-  
-}
-/* .Contact .title h1{
-    font-size:100px;
-    font-weight: 900;
-    color:#ebeced;
-    margin: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content:center;
-    align-items:center;
+    padding:50px 0px;}
 
-} */
 .Contact .title p{
     font-size: 20px;
     margin-top: -75px;
