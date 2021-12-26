@@ -330,6 +330,7 @@ HTML{scroll-behavior: smooth;}
     font-weight: 900;
     font-size:35px;
     margin:0
+    text-align: center;
 }
 .Contact .content a{
     text-decoration:none;
